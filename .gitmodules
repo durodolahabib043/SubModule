@@ -1,0 +1,3 @@
+[submodule "SampleSdk"]
+	path = SampleSdk
+	url = https://github.com/durodolahabib043/SampleSdk.git
