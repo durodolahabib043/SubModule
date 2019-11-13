@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         let sds = NewSdA()
         sds.displayD()
+        //https://www.raywenderlich.com/690-dependency-management-using-git-submodules
 
     }
 
